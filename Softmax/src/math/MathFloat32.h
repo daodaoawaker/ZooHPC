@@ -1,4 +1,5 @@
-#include <include/KernelFunction.h>
+#include <KernelFunc.h>
+
 #include <limits>
 #include <stdio.h>
 

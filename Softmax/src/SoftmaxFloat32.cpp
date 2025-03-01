@@ -1,5 +1,4 @@
-#include <include/KernelFunction.h>
-#include <include/MathFloat32.h>
+#include <math/MathFloat32.h>
 
 #include <cmath>
 #include <cstdio>

@@ -1,1 +1,1 @@
-# <center>High Performance Compute projects<center>
+# <center>High Performance Compute Projects<center>
